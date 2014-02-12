@@ -1,14 +1,11 @@
 ofxTalairach
 ========
 
-![Screenshot](https://github.com/carlesgutierrez/ofxTalairach/raw/master/screen.png)
-
 #Description
 Simple Client for Talairach Daemon by command line opcions
 http://www.talairach.org/manual.html#CommandLine
 
 The demo requires: 
-
 openFrameworks https://github.com/openframeworks/openFrameworks 
 
 #Use
